@@ -1,0 +1,9 @@
+# Discord Channel Monitor - Requirements
+# Install with: pip install -r requirements.txt
+# Requires Python 3.8+
+
+# Discord API wrapper
+discord.py>=2.0.0
+
+# GUI - tkinter is included with most Python installations
+# If missing on Linux, run: sudo apt install python3-tk
